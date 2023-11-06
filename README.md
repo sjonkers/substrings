@@ -7,4 +7,3 @@ If there are matches (i.e., matches is not equal to 0), the code adds an entry t
 
 Finally, the result hash is returned from the method.
 
-After defining the method, the code creates an array called dictionary with some words. It then calls the substrings method with a message string and the dictionary array as arguments. The resulting hash is printed to the console.
